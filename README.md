@@ -1,7 +1,6 @@
 # portfolio_optimization
 experiments with portfolio optimization
 
-medium:
-1. https://medium.com/@financialnoob/introduction-to-portfolio-optimization-and-modern-portfolio-theory-101f663829c4
-2. https://medium.com/@financialnoob/portfolio-optimization-with-weighted-mean-and-covariance-estimators-de6dda2cab3d
-3. https://medium.com/@financialnoob/portfolio-optimization-random-matrix-approach-to-estimating-covariance-matrix-e1cca4554466
+1. https://financialnoob.me/introduction-to-portfolio-optimization-and-modern-portfolio-theory/
+2. https://financialnoob.me/portfolio-optimization-with-weighted-mean-and-covariance-estimators/
+3. https://financialnoob.me/portfolio-optimization-random-matrix-approach-to-estimating-covariance-matrix/
